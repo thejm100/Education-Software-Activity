@@ -8,7 +8,7 @@
 ## 🇪🇸 Español
 
 ### 👤 Sobre Mí
-¡Hola! 👋 Soy desarrollador de software en formación técnica/tecnológica en el **SENA (Servicio Nacional de Aprendizaje)** en Colombia. Me especializo en el desarrollo de soluciones de software estructuradas, con un enfoque sólido en **diseño y gestión de bases de datos relacionales (SQL Server)** y programación en **Python**.
+¡Hola! 👋 Soy desarrollador de software en formación tecnológica en el **SENA (Servicio Nacional de Aprendizaje)** en Colombia. Me especializo en el desarrollo de soluciones de software estructuradas, con un enfoque sólido en **diseño y gestión de bases de datos relacionales (SQL Server)** y programación en **Python**.
 
 Me caracterizo por la capacidad de análisis, la resolución lógica de problemas y la búsqueda constante de buenas prácticas de código.
 
