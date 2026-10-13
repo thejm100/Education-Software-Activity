@@ -48,5 +48,4 @@ I am characterized by my analytical skills, logical problem-solving, and constan
 
 ### 📬 Contact & Links
 * **GitHub:** @thejm100
-* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
 * **Location:** Medellín, Colombia
